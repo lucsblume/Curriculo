@@ -263,6 +263,15 @@ a{
         width: 30%;
     }
 }
+
+@media screen and (max-width:487px){
+    .right-title::after{
+        width: 8%;
+    }
+}
+
+
+
 @media screen and (max-width:780px){
     .timeline{
         grid-template-columns: repeat(1, 1fr);
