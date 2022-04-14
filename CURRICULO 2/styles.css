@@ -40,7 +40,7 @@ a{
 }
 .profile{
     width: 100%;
-    border-bottom: 1px solid #002333;
+    border-bottom: 2px solid #889bb7;
 }
 
 .image{
@@ -122,29 +122,36 @@ a{
     border-radius: 12px;
 }
 .js-progress{
-    width: 85%;
+    width: 80%;
 }
 .Rc-progress{
-    width: 85%;
+    width: 86%;
 }
 .Rcn-progress{
-    width: 85%;
-}
-.ps-progress{
-    width: 85%;
-}
-.j-progress{
     width: 88%;
 }
-.c-progress{
-    width: 70%;
+.web-progress{
+    width: 90%;
 }
-.n-progress{
-    width: 30%;
+.py-progress{
+    width: 48%;
 }
-.w-progress{
-    width: 78%;
+.git-progress{
+    width: 77%;
 }
+.node-progress{
+    width: 50%;
+}
+.ph-progress{
+    width: 80%;
+}
+.figma-progress{
+    width: 88%;
+}
+.adbXD-progress{
+    width: 85%;
+}
+
 
 
 .skill-title{
