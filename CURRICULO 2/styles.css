@@ -137,7 +137,7 @@ a{
     width: 48%;
 }
 .git-progress{
-    width: 77%;
+    width: 85%;
 }
 .node-progress{
     width: 50%;
@@ -146,10 +146,14 @@ a{
     width: 80%;
 }
 .figma-progress{
-    width: 88%;
+    width: 94%;
 }
 .adbXD-progress{
-    width: 85%;
+    width: 90%;
+}
+.canva-progress{
+    width: 92%;
+
 }
 
 
